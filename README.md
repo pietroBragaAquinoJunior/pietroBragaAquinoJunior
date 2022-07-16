@@ -1,6 +1,4 @@
 # Piêtro Braga Aquino Júnior
-- Desenvolvedor Front-end
-- Formado em Engenharia de Computação na UEMA
 - HTML5
 - CSS3
 - Javascript
