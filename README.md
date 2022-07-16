@@ -6,6 +6,9 @@
 - ReactJs
 - GSAP
 - Mysql
+- Git
+- Tailwind
+- Bootstrap
 
 # Projetos
 
