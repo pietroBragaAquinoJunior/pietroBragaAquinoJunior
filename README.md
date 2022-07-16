@@ -7,8 +7,9 @@
 - GSAP
 - Mysql
 - Git
-- Tailwind
+- TailwindCSS
 - Bootstrap
+- Python
 
 # Projetos
 
