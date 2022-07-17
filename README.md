@@ -34,3 +34,7 @@
 **Banco de Dados**
 
 <img src="https://user-images.githubusercontent.com/85259321/179418835-e32bde44-5913-4bd5-861a-fdc2ae76e45e.jpg" style='width:400px' />
+
+**Git/GitHub**
+
+<img src="https://user-images.githubusercontent.com/85259321/179424014-e0cd3979-40b3-4e96-9715-d1da11e2487e.jpg" style='width:400px' />
