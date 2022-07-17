@@ -1,15 +1,15 @@
 # Piêtro Braga Aquino Júnior
 
-- HTML5
-- CSS3
-- Javascript
-- ReactJs
-- GSAP
-- Mysql
-- Git
-- TailwindCSS
-- Bootstrap
-- Python
+- [x] HTML5
+- [x] CSS3
+- [x] Javascript
+- [x] ReactJs
+- [x] GSAP
+- [x] Mysql
+- [x] Git
+- [x] TailwindCSS
+- [x] Bootstrap
+- [x] Python
 
 # Projetos
 ## Livro Animado
