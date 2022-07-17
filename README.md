@@ -5,7 +5,7 @@
 - [x] Javascript
 - [x] ReactJs
 - [x] GSAP
-- [x] Mysql
+- [x] Banco de dados
 - [x] Git
 - [x] TailwindCSS
 - [x] Bootstrap
