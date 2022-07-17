@@ -1,7 +1,6 @@
 # Piêtro Braga Aquino Júnior
 
 - HTML5
-<progress value="90" max="100"> 90% </progress>
 - CSS3
 - Javascript
 - ReactJs
