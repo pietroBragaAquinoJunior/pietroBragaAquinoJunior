@@ -4,7 +4,6 @@
 - [x] CSS3
 - [x] Javascript
 - [x] ReactJs
-- [x] GSAP
 - [x] Banco de Dados
 - [x] Git
 - [x] TailwindCSS
