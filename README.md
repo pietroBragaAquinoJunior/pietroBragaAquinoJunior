@@ -1,19 +1,7 @@
 # Piêtro Braga Aquino Júnior
-<img src='https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/05bda6ff-8dc3-4d9a-8c03-30ac8f5e8082' style='width:100px' /> 
-<img src='https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/9c570ff6-bd2a-4279-9921-6ae7a30997ef' style='width:100px' /> 
 
+![Design sem nome](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/52e28d0d-d35b-44b0-a73e-b6ddad780454)
 
-
-
-- [x] HTML5
-- [x] CSS3
-- [x] Javascript
-- [x] ReactJs
-- [x] Banco de Dados
-- [x] Git
-- [x] TailwindCSS
-- [x] Bootstrap
-- [x] Python
 
 # Projetinho Front-End
 **Livro Animado**
