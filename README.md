@@ -1,6 +1,7 @@
 # Piêtro Braga Aquino Júnior
 
-![Design sem nome](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/52e28d0d-d35b-44b0-a73e-b6ddad780454)
+![Design sem nome (1)](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/e949d8ec-1f3d-45c9-bde7-935730fc96a5)
+
 
 
 # Projetinho Front-End
