@@ -1,6 +1,5 @@
 # Piêtro Braga Aquino Júnior
 <img src='https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/05bda6ff-8dc3-4d9a-8c03-30ac8f5e8082' style='width:100px' /> 
-![spring]()
 
 
 - [x] HTML5
