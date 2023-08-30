@@ -10,41 +10,37 @@
 - [x] Bootstrap
 - [x] Python
 
-# Projetos
+# Projetinho Front-End
 **Livro Animado**
-
 <img src="https://user-images.githubusercontent.com/85259321/179426152-5e6ed30d-fd59-4f0b-bade-c8920ce52901.gif" style='width:400px' />
-<a href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
 
-- [x] HTML5
-- [x] CSS3
-- [x] Javascript
-- [x] GSAP
+<a href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
 
 # Certificados
 
-**Microsserviços**
+**Microsserviços Java & Spring Boot**
 
 ![decoder](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/0f26335f-74c4-4f32-8d50-a48a0d613a3a)
 
+**Java & Spring Boot**
+
+![java](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/10064570-9b7f-4db9-8647-2b61dded8695)
+
 **Javascript**
 
-<img src="https://user-images.githubusercontent.com/85259321/179030066-dd09a757-f8cb-4703-9996-e8ffc418020f.jpg" style='width:400px' />
+![javascript](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/08d7b414-cd71-474b-a48f-b503347ad464)
+
 
 **HTML5 & CSS3**
 
-<img src="https://user-images.githubusercontent.com/85259321/179030084-625fdaa0-8b0b-4cd6-892d-f78ddbffbbbc.jpg" style='width:400px' />
+![htmlcss](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/12b3f9cd-b5a4-4e14-8f0e-42dbc7500b2d)
+
 
 **Banco de Dados**
 
-<img src="https://user-images.githubusercontent.com/85259321/179418835-e32bde44-5913-4bd5-861a-fdc2ae76e45e.jpg" style='width:400px' />
+![banco](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/9281eff7-a4a3-49fe-95ae-c80bbcc7bc02)
+
 
 **Git/GitHub**
 
-<img src="https://user-images.githubusercontent.com/85259321/179424014-e0cd3979-40b3-4e96-9715-d1da11e2487e.jpg" style='width:400px' />
-
-
-**Java/Spring Boot**
-
-<img src="https://user-images.githubusercontent.com/85259321/184463576-04e6aa5b-6146-42bc-8d8e-6fd1d2e920de.png" style='width:400px' />
-
+![git](https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/96fc7ae0-4516-4cc2-b20b-4d3d991903d2)
