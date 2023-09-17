@@ -11,8 +11,10 @@
 
 ## Pagina de Produtos
 
-[https://pietrobragaaquinojunior.github.io/pagina_de_produtos/](https://pietrobragaaquinojunior.github.io/pagina_de_produtos/)
-<img src="https://github.com/pietroBragaAquinoJunior/pagina_de_produtos/assets/85259321/fa1b657e-5cf9-4759-a307-e4fa7923061e" width="400" />
+<div style="display:flex; ">
+  <a href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a>
+  <img src="https://github.com/pietroBragaAquinoJunior/pagina_de_produtos/assets/85259321/fa1b657e-5cf9-4759-a307-e4fa7923061e" width="400" />
+</div>
 
 # Certificados
 
