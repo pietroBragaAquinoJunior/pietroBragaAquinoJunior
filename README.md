@@ -4,6 +4,8 @@
 
 # Projetos Front-End
 
+Segure control para abrir em outra página:
+
 - Livro Animado
 - <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
 - Página de Produtos
