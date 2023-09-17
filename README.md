@@ -4,16 +4,10 @@
 
 # Projetos Front-End
 
-## Livro Animado
-
-<img src="https://user-images.githubusercontent.com/85259321/179426152-5e6ed30d-fd59-4f0b-bade-c8920ce52901.gif"/>
-<a href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
-
-## Pagina de Produtos
-
-<img src="https://github.com/pietroBragaAquinoJunior/pagina_de_produtos/assets/85259321/fa1b657e-5cf9-4759-a307-e4fa7923061e" width="400" />
-<br/>
-<a href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a>
+- Livro Animado
+- <a href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
+- Página de Produtos
+- <a href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a>
 
 # Certificados
 
