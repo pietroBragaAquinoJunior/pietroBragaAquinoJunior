@@ -12,19 +12,18 @@ Segure control para abrir em outra página:
 #### Página de Produtos (Projeto Vue porém apenas elementos Html e Css) (Template criado por inteligência artificial).
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a>
 
-#### HTML5 CSS3 e Javascript:
-Novo Portal da Transparência (Fui o único desenvolvedor Front-end na criação do projeto novo portal da transparência, enquanto trabalhei na Secretaria de Transparência e Controle do Maranhão)
+### HTML5 CSS3 e Javascript:
+#### Novo Portal da Transparência (Fui o único desenvolvedor Front-end na criação do projeto novo portal da transparência, enquanto trabalhei na Secretaria de Transparência e Controle do Maranhão)
 <br/>
 <a target="_blank" href="https://www.transparencia.ma.gov.br/">https://www.transparencia.ma.gov.br/</a>
 
-
-#### ReactJs:
-Agendamentos Frontend
+### ReactJs:
+#### Agendamentos Frontend
 <br/>
- <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master">https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master</a> 
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master">https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master</a> 
 
-#### Spring Boot:
-Agendamentos Backend
+### Spring Boot:
+#### Agendamentos Backend
 <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring">https://github.com/pietroBragaAquinoJunior/agendamento-back-spring</a>
   
