@@ -26,10 +26,13 @@ Segure control para abrir em outra página:
 ### ReactJs:
 <img src="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/assets/85259321/aa812aa7-919a-44ba-b876-7dac749b28ba" style='width:400px' /> <br/>
 Agendamentos Frontend <br/>
+(Esse é um projeto ReactJs que eu fiz como teste para trabalhar no Tribunal de Contas do Estado do Maranhão. O código é inteiramente autoral. Não utilizei biblioteca de componentes, apenas CSS.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master">https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master</a> <br/>
 
 ### Spring Boot:
+<img src="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring/assets/85259321/5491659f-e7ce-4db6-8e46-7bdd6e4537a5" style='width:400px' /> <br/>
 Agendamentos Backend <br/>
+(Esse é um projeto Spring Boot que eu fiz como teste para trabalhar no Tribunal de Contas do Estado do Maranhão. O código é inteiramente autoral. Utilizei controllers, services e repositories simples e banco de dados salvo em memória.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring">https://github.com/pietroBragaAquinoJunior/agendamento-back-spring</a> <br/>
   
 # Certificados
