@@ -7,8 +7,8 @@
 Segure control para abrir em outra página:
 
 ### HTML5 e CSS3 Somente:
-<b>Livro Animado<b/> <br/>
 <img src="https://user-images.githubusercontent.com/85259321/179426152-5e6ed30d-fd59-4f0b-bade-c8920ce52901.gif" style='width:400px' /> <br/>
+<b>Livro Animado<b/> <br/>
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a> <br/>
 <b>Página de Produtos<b/> <br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/efdf1241-8ce6-449f-8782-21f3291aeea6" style='width:400px' /> <br/>
@@ -16,12 +16,13 @@ Segure control para abrir em outra página:
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a> <br/>
 
 ### HTML5 CSS3 e Javascript:
-<b>Novo Portal da Transparência<b/> <br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/85f4fd6a-a3de-4dbf-91a6-5d7332992a65" style='width:400px' /> <br/>
+<b>Novo Portal da Transparência<b/> <br/>
 (Fui o único desenvolvedor Front-end na criação do projeto novo portal da transparência, enquanto trabalhei na Secretaria de Transparência e Controle do Maranhão). <br/>
 <a target="_blank" href="https://www.transparencia.ma.gov.br/">https://www.transparencia.ma.gov.br/</a> <br/>
 
 ### ReactJs:
+<img src="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/assets/85259321/aa812aa7-919a-44ba-b876-7dac749b28ba" style='width:400px' /> <br/>
 Agendamentos Frontend <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master">https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master</a> <br/>
 
