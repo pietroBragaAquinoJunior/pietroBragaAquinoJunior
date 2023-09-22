@@ -10,8 +10,9 @@ Segure control para abrir em outra página:
 <img src="https://user-images.githubusercontent.com/85259321/179426152-5e6ed30d-fd59-4f0b-bade-c8920ce52901.gif" style='width:400px' /> <br/>
 <b>Livro Animado<b/> <br/>
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a> <br/>
-<b>Página de Produtos<b/> <br/>
+<br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/efdf1241-8ce6-449f-8782-21f3291aeea6" style='width:400px' /> <br/>
+<b>Página de Produtos<b/> <br/>
 (Projeto Vue porém apenas elementos Html e Css) (Template criado por inteligência artificial). <br/>
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a> <br/>
 
