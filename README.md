@@ -37,7 +37,12 @@ Segure control para abrir em outra página:
 #### Agendamentos Backend 
 (Esse é um projeto Spring Boot que eu fiz como teste para trabalhar no Tribunal de Contas do Estado do Maranhão. O código é inteiramente autoral. Utilizei controllers, services e repositories simples e banco de dados salvo em memória.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring">https://github.com/pietroBragaAquinoJunior/agendamento-back-spring</a> <br/>
-  
+
+<img src="https://github.com/pietroBragaAquinoJunior/michelli-microservices/assets/85259321/5ba79939-ce76-4e41-81b3-fbf951cbe70a" style='width:400px' /> <br/>
+#### Michelli Microservices
+(Este é o projeto principal do curso Decoder Project Microservices da Michelli Britto onde aprendi diversas tecnologias e patterns como circuit breaker, JPA, Config Server, Eureka Server, Gateway, entre vários outros do ecossistema Spring) <br/>
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/michelli-microservices">https://github.com/pietroBragaAquinoJunior/michelli-microservices</a> <br/>
+
 # Certificados
 
 - Microsserviços Java & Spring Boot 
