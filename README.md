@@ -8,30 +8,35 @@ Segure control para abrir em outra página:
 
 ### HTML5 e CSS3 Somente:
 <img src="https://user-images.githubusercontent.com/85259321/179426152-5e6ed30d-fd59-4f0b-bade-c8920ce52901.gif" style='width:400px' /> <br/>
-<b>Livro Animado<b/> <br/>
+#### Livro Animado 
+<br/>
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a> <br/>
 <br/>
 <br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/efdf1241-8ce6-449f-8782-21f3291aeea6" style='width:400px' /> <br/>
-<b>Página de Produtos</b> <br/>
+#### Página de Produtos 
+<br/>
 (Projeto Vue porém apenas elementos Html e Css) (Template criado por inteligência artificial). <br/>
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a> <br/>
 
 ### HTML5 CSS3 e Javascript:
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/85f4fd6a-a3de-4dbf-91a6-5d7332992a65" style='width:400px' /> <br/>
-<b>Novo Portal da Transparência<b/> <br/>
+#### Novo Portal da Transparência
+<br/>
 (Fui o único desenvolvedor Front-end na criação do projeto novo portal da transparência, enquanto trabalhei na Secretaria de Transparência e Controle do Maranhão). <br/>
 <a target="_blank" href="https://www.transparencia.ma.gov.br/">https://www.transparencia.ma.gov.br/</a> <br/>
 
 ### ReactJs:
 <img src="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/assets/85259321/aa812aa7-919a-44ba-b876-7dac749b28ba" style='width:400px' /> <br/>
-Agendamentos Frontend <br/>
+#### Agendamentos Frontend
+<br/>
 (Esse é um projeto ReactJs que eu fiz como teste para trabalhar no Tribunal de Contas do Estado do Maranhão. O código é inteiramente autoral. Não utilizei biblioteca de componentes, apenas CSS.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master">https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master</a> <br/>
 
 ### Spring Boot:
 <img src="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring/assets/85259321/5491659f-e7ce-4db6-8e46-7bdd6e4537a5" style='width:400px' /> <br/>
-Agendamentos Backend <br/>
+#### Agendamentos Backend 
+<br/>
 (Esse é um projeto Spring Boot que eu fiz como teste para trabalhar no Tribunal de Contas do Estado do Maranhão. O código é inteiramente autoral. Utilizei controllers, services e repositories simples e banco de dados salvo em memória.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring">https://github.com/pietroBragaAquinoJunior/agendamento-back-spring</a> <br/>
   
