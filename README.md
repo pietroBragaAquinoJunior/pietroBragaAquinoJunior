@@ -9,8 +9,13 @@ Segure control para abrir em outra página:
 HTML5 e CSS3 Somente:
 - Livro Animado
  <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
-- Página de Produtos (Projeto Vue porém apenas elementos Html e Css).
+- Página de Produtos (Projeto Vue porém apenas elementos Html e Css) (Template criado por inteligência artificial).
  <a target="_blank" href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a>
+
+HTML5 CSS3 e Javascript:
+- Novo Portal da Transparência (Fui o único desenvolvedor Front-end na criação do projeto novo portal da transparência, enquanto trabalhei na Secretaria de Transparência e Controle do Maranhão)
+ <a target="_blank" href="https://www.transparencia.ma.gov.br/">https://www.transparencia.ma.gov.br/</a>
+
 
 ReactJs:
 - Agendamentos Frontend
