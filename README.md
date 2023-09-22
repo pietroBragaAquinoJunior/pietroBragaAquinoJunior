@@ -11,6 +11,7 @@ Segure control para abrir em outra página:
 <b>Livro Animado<b/> <br/>
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a> <br/>
 <br/>
+<br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/efdf1241-8ce6-449f-8782-21f3291aeea6" style='width:400px' /> <br/>
 <b>Página de Produtos<b/> <br/>
 (Projeto Vue porém apenas elementos Html e Css) (Template criado por inteligência artificial). <br/>
