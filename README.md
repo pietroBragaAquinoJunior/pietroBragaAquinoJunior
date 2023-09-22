@@ -17,7 +17,8 @@ Segure control para abrir em outra página:
 
 ### HTML5 CSS3 e Javascript:
 <b>Novo Portal da Transparência<b/> <br/>
-(Fui o único desenvolvedor Front-end na criação do projeto novo portal da transparência, enquanto trabalhei na Secretaria de Transparência e Controle do Maranhão) <br/>
+<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/85f4fd6a-a3de-4dbf-91a6-5d7332992a65" style='width:400px' /> <br/>
+(Fui o único desenvolvedor Front-end na criação do projeto novo portal da transparência, enquanto trabalhei na Secretaria de Transparência e Controle do Maranhão). <br/>
 <a target="_blank" href="https://www.transparencia.ma.gov.br/">https://www.transparencia.ma.gov.br/</a> <br/>
 
 ### ReactJs:
