@@ -2,7 +2,7 @@
 
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/e949d8ec-1f3d-45c9-bde7-935730fc96a5" />
 
-# Projetos Front-End
+# Projetos
 
 Segure control para abrir em outra página:
 
