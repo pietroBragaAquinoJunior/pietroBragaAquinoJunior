@@ -6,7 +6,7 @@
 
 Segure control para abrir em outra página:
 
-## HTML5 e CSS3 Somente:
+### HTML5 e CSS3 Somente:
 #### Livro Animado
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
 #### Página de Produtos (Projeto Vue porém apenas elementos Html e Css) (Template criado por inteligência artificial).
@@ -18,13 +18,15 @@ Novo Portal da Transparência (Fui o único desenvolvedor Front-end na criação
 <a target="_blank" href="https://www.transparencia.ma.gov.br/">https://www.transparencia.ma.gov.br/</a>
 
 
-ReactJs:
-- Agendamentos Frontend
+#### ReactJs:
+Agendamentos Frontend
+<br/>
  <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master">https://github.com/pietroBragaAquinoJunior/agendamento-front-spring/tree/master</a> 
 
-Spring Boot:
-- Agendamentos Backend
- <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring">https://github.com/pietroBragaAquinoJunior/agendamento-back-spring</a>
+#### Spring Boot:
+Agendamentos Backend
+<br/>
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/agendamento-back-spring">https://github.com/pietroBragaAquinoJunior/agendamento-back-spring</a>
   
 # Certificados
 
