@@ -9,7 +9,7 @@ Segure control para abrir em outra página:
 HTML5 e CSS3 Somente:
 - Livro Animado
 - <a target="_blank" href="https://pietrobragaaquinojunior.github.io/Livro-Animado/">https://pietrobragaaquinojunior.github.io/Livro-Animado/</a>
-- Página de Produtos
+- Página de Produtos (Projeto Vue porém apenas elementos Html e Css).
 - <a target="_blank" href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a>
 
 ReactJs:
