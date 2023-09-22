@@ -13,7 +13,7 @@ Segure control para abrir em outra página:
 <br/>
 <br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/efdf1241-8ce6-449f-8782-21f3291aeea6" style='width:400px' /> <br/>
-<b>Página de Produtos<b/> <br/>
+<b>Página de Produtos</b> <br/>
 (Projeto Vue porém apenas elementos Html e Css) (Template criado por inteligência artificial). <br/>
 <a target="_blank" href="https://pietrobragaaquinojunior.github.io/pagina_de_produtos/">https://pietrobragaaquinojunior.github.io/pagina_de_produtos/</a> <br/>
 
