@@ -48,6 +48,11 @@ Segure control para abrir em outra página:
 (Projeto criado para testar requisições à api's externas usando Feign com java 21.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/FeignJava21">https://github.com/pietroBragaAquinoJunior/FeignJava21</a> <br/>
 
+<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" style='width:400px' /> <br/>
+#### SpringBoot + Hexagonal
+(Arquitetura Hexagonal com Spring) <br/>
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
+
 <img src="https://github.com/pietroBragaAquinoJunior/michelli-microservices/assets/85259321/5ba79939-ce76-4e41-81b3-fbf951cbe70a" style='width:400px' /> <br/>
 #### Michelli Microservices
 (Este é o projeto principal do curso Decoder Project Microservices da Michelli Britto onde aprendi diversas tecnologias e patterns como circuit breaker, JPA, Config Server, Eureka Server, Gateway, entre vários outros do ecossistema Spring) <br/>
