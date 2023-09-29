@@ -48,6 +48,11 @@ Segure control para abrir em outra página:
 (Projeto criado para testar requisições à api's externas usando Feign com java 21.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/FeignJava21">https://github.com/pietroBragaAquinoJunior/FeignJava21</a> <br/>
 
+<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/df8ccbe3-15c5-4cc9-a779-4ff7c8126c8b" style='width:400px' /> <br/>
+#### SpringBoot + Email + Json
+(Aplicação que transforma StringJson em objeto de duas formas diferentes usando Gson, ou spring-boot-starter-json [objectmapper] e envia email.) <br/>
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/email_to_json">https://github.com/pietroBragaAquinoJunior/email_to_json</a> <br/>
+
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" style='width:400px' /> <br/>
 #### SpringBoot + Hexagonal
 (Arquitetura Hexagonal com Spring) <br/>
