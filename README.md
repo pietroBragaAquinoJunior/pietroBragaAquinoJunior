@@ -44,10 +44,10 @@ Segure control para abrir em outra página:
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/Gdrive-api">https://github.com/pietroBragaAquinoJunior/Gdrive-api</a> <br/>
 
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/492fe046-edb4-483a-92f5-56679d72a8e5" style='width:400px' /> <br/>
-#### SpringBoot + Feign
-(Projeto criado para testar requisições à api's externas usando Feign com java 21.) <br/>
+#### SpringBoot + Feign +  Resilience4J
+(Projeto criado para testar requisições à api's externas usando Feign com Resilience4j com método Fallback. Java 21) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/FeignJava21">https://github.com/pietroBragaAquinoJunior/FeignJava21</a> <br/>
-
+<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/16ea185f-4bcf-487b-81da-4121a301fffe" style='width:400px' /> <br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/df8ccbe3-15c5-4cc9-a779-4ff7c8126c8b" style='width:400px' /> <br/>
 #### SpringBoot + Email + Json
 (Aplicação que transforma StringJson em objeto de duas formas diferentes usando Gson, ou spring-boot-starter-json [objectmapper] e envia email.) <br/>
