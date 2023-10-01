@@ -63,6 +63,11 @@ Segure control para abrir em outra página:
 (Possui diversas tecnologias e patterns como circuit breaker, JPA, Config Server, Eureka Server, Gateway, entre vários outros do ecossistema Spring) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/microservices">https://github.com/pietroBragaAquinoJunior/microservices</a> <br/>
 
+<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/952e7a92-1d4f-49f4-a8e1-d5aea1d565f9" style='width:400px' /> <br/>
+#### Postgresql
+(Projeto criado para treinamento de SQL utilizando uma base de dados de teste populada com informações.) <br/>
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/treinamento_sql">https://github.com/pietroBragaAquinoJunior/treinamento_sql</a> <br/>
+
 # Certificados
 
 - Microsserviços Java & Spring Boot 
