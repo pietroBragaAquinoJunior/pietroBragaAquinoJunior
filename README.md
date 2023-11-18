@@ -69,6 +69,10 @@ Segure control para abrir em outra página:
 (Projeto criado para treinamento de SQL utilizando uma base de dados de teste populada com informações.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/treinamento_sql">https://github.com/pietroBragaAquinoJunior/treinamento_sql</a> <br/>
 
+# HackTheBox Achievements
+
+https://academy.hackthebox.com/achievement/37470/35
+
 # Certificados
 
 - Microsserviços Java & Spring Boot 
