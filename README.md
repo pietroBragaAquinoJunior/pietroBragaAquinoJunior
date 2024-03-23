@@ -6,6 +6,10 @@
 
 Segure control para abrir em outra página:
 
+### GOLANG
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/go-api">https://github.com/pietroBragaAquinoJunior/go-api</a> <br/>
+<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/beeb5add-fb82-4549-bb13-da0f92d7039a" style='width:400px' /> <br/>
+</br>
 ### HTML5 e CSS3 Somente:
 
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/c3368853-fecc-48bb-927e-1fea1d1fce29" style='width:400px' /> <br/>
