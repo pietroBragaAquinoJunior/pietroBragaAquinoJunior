@@ -1,6 +1,6 @@
 # Piêtro Braga Aquino Júnior
 
-<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/e949d8ec-1f3d-45c9-bde7-935730fc96a5" />
+<img src="https://github.com/user-attachments/assets/9caece08-5fdc-4a9e-8a18-1a9efeeec8f2" />
 
 # Projetos
 
