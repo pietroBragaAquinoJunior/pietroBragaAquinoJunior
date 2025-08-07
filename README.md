@@ -1,9 +1,5 @@
 # Piêtro Braga Aquino Júnior
 
-![spring](https://github.com/user-attachments/assets/b609e2fe-79bc-4647-bc00-5e28c9e5e6ad)
-<img width="500" height="300" alt="vue" src="https://github.com/user-attachments/assets/d4d3bd87-95ca-4999-9c90-f966eda42e10" />
-
-
 # Projetos
 
 Segure control para abrir em outra página:
