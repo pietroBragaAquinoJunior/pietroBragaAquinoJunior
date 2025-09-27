@@ -12,6 +12,7 @@
 - [x] **Flyway for Migrations**
 - [x] **Junit & Mockito for Tests**
 - [x] **Global Handler for Exceptions**
+- [x] **Spring Validator**
 
 ---
 
