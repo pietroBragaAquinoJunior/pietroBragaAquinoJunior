@@ -2,13 +2,13 @@
 # Projects
 
 <div align="center"> <h2> Spring Boot Rest API </h2> </div>
-* **JPA**
-* **H2**
-* **Hexagonal Architecture**
-* **N+1 problem & Solution using Join Fetch**
-* **Flyway for Migrations**
-* **Junit & Mockito for Tests**
-* **Global Handler for Exceptions**
+- [x] JPA
+- [x] H2
+- [x] Hexagonal Architecture
+- [x] N+1 problem & Solution using Join Fetch
+- [x] Flyway for Migrations
+- [x] Junit & Mockito for Tests
+- [x] Global Handler for Exceptions
 <div align="center">
   <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118"  width="48%" alt="Descrição da Imagem 1"/>
   <img src="https://github.com/user-attachments/assets/98f31f02-9b0e-4ffb-be5b-f04fb0724edc"  width="48%" alt="Descrição da Imagem 2"/>
