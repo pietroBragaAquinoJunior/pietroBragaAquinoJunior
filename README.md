@@ -3,13 +3,13 @@
 # Projetos
 
 
-<strong align="center"> Spring Boot Rest API + JPA + H2 + Hexagonal Architecture + n+1 Problem & Solution using Join Fetch + Flyway for Migrations + Junit & Mockito for Tests + Global Handler for Exceptions. </strong> 
+<strong> Spring Boot Rest API + JPA + H2 + Hexagonal Architecture + n+1 Problem & Solution using Join Fetch + Flyway for Migrations + Junit & Mockito for Tests + Global Handler for Exceptions. </strong> 
 <div align="center">
   <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" width="400px" alt="Descrição da Imagem 1"/>
   <img src="https://github.com/user-attachments/assets/98f31f02-9b0e-4ffb-be5b-f04fb0724edc" width="400px" alt="Descrição da Imagem 2"/>
 </div>
 </br>
-<a align="center" target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
 
 
 ### GOLANG
