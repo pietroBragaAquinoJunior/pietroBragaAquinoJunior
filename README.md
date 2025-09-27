@@ -5,7 +5,7 @@
 Segure control para abrir em outra página:
 
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" style='width:400px' /> <br/>
-#### SpringBoot + Hexagonal
+### Spring Boot + JPA + H2 + Hexagonal Architecture + n+1 Problem & Solution using Join Fetch + Flyway for Migrations + Junit & Mockito for Tests + Global Handler for Exceptions.
 (Arquitetura Hexagonal com Spring) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
 
