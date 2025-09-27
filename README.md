@@ -3,7 +3,8 @@
 # Projetos
 
 
-<strong> Spring Boot Rest API + JPA + H2 + Hexagonal Architecture + n+1 Problem & Solution using Join Fetch + Flyway for Migrations + Junit & Mockito for Tests + Global Handler for Exceptions. </strong> 
+<h2> Spring Boot Rest API + JPA + H2 + Hexagonal Architecture + n+1 Problem & Solution using Join Fetch + Flyway for Migrations + Junit & Mockito for Tests + Global Handler for Exceptions. </h2> 
+<strong> Using: JPA | H2 | Hexagonal Architecture | N+1 problem & Solution using Join Fetch | Flyway for Migrations | Junit & Mockito for tests | Global Handler for Exceptions </strong>
 <div align="center">
   <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" width="400px" alt="Descrição da Imagem 1"/>
   <img src="https://github.com/user-attachments/assets/98f31f02-9b0e-4ffb-be5b-f04fb0724edc" width="400px" alt="Descrição da Imagem 2"/>
