@@ -10,4 +10,5 @@
 - [x] Global Handler for Exceptions
 
 ```java
-System.out.println(" This project is one of the bests to show my knowledge and skills in building robust backend applications with clean architecture! ")
+System.out.println(" This project is one of the bests to show my knowledge and skills in building" +
+                   " robust backend applications with clean architecture! ")
