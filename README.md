@@ -9,6 +9,7 @@ Segure control para abrir em outra página:
   <img src="https://github.com/user-attachments/assets/98f31f02-9b0e-4ffb-be5b-f04fb0724edc" width="400px" alt="Descrição da Imagem 2"/>
 </div>
 <strong> Spring Boot + JPA + H2 + Hexagonal Architecture + n+1 Problem & Solution using Join Fetch + Flyway for Migrations + Junit & Mockito for Tests + Global Handler for Exceptions. </strong> 
+</br>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
 
 
