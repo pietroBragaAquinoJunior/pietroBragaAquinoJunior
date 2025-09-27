@@ -4,7 +4,7 @@
 
 ### 🔗 Veja o [Código-Fonte Completo aqui](https://github.com/pietroBragaAquinoJunior/hexagonal)
 
-### 🛠️ Technologies
+#### 🛠️ Technologies
 
 - [x] **JPA**
 - [x] **H2**
@@ -15,7 +15,7 @@
 
 ---
 
-### 👨‍💻 Author's Comments:
+#### 👨‍💻 Author's Comments:
 
 ```java
 💬
