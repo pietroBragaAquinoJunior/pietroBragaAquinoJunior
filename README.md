@@ -2,7 +2,7 @@
 
 ## 🌿 Spring Boot Rest API (Java) ☕
 
-### 🔗 Veja o [Código-Fonte Completo aqui](https://github.com/pietroBragaAquinoJunior/hexagonal)
+### 🔗 See the complete [Source Code here](https://github.com/pietroBragaAquinoJunior/hexagonal)
 
 #### 🛠️ Technologies
 
