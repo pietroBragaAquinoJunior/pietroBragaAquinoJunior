@@ -4,6 +4,12 @@
 
 Segure control para abrir em outra página:
 
+<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" style='width:400px' /> <br/>
+#### SpringBoot + Hexagonal
+(Arquitetura Hexagonal com Spring) <br/>
+<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
+
+
 ### GOLANG
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/go-api">https://github.com/pietroBragaAquinoJunior/go-api</a> <br/>
 <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/beeb5add-fb82-4549-bb13-da0f92d7039a" style='width:400px' /> <br/>
@@ -54,11 +60,6 @@ Segure control para abrir em outra página:
 #### SpringBoot + Email + Json
 (Aplicação que transforma StringJson em objeto de duas formas diferentes usando Gson, ou spring-boot-starter-json [objectmapper] e envia email.) <br/>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/json_to_email">https://github.com/pietroBragaAquinoJunior/json_to_email</a> <br/>
-
-<img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" style='width:400px' /> <br/>
-#### SpringBoot + Hexagonal
-(Arquitetura Hexagonal com Spring) <br/>
-<a target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
 
 <img src="https://github.com/pietroBragaAquinoJunior/microservices/assets/85259321/55214428-63c7-42f8-b58c-2d7b589b0a1e" style='width:400px' /> <br/>
 #### Microservices
