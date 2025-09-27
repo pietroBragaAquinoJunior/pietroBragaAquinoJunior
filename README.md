@@ -13,7 +13,7 @@
 
 ---
 
-### Author's Comment:
+### Author's Comments:
 
 ```java
 💬
