@@ -1,14 +1,17 @@
-# Piêtro Braga Aquino Júnior
 
-# Projetos
+# Projects
 
+<div align="center"> <h2> Spring Boot Rest API </h2> </div>
+* **JPA**
+* **H2**
+* **Hexagonal Architecture**
+* **N+1 problem & Solution using Join Fetch**
+* **Flyway for Migrations**
+* **Junit & Mockito for Tests**
+* **Global Handler for Exceptions**
 <div align="center">
-  <h2> Spring Boot Rest API </h2> 
-</div>
-<strong> Using: JPA | H2 | Hexagonal Architecture | N+1 problem & Solution using Join Fetch | Flyway for Migrations | Junit & Mockito for tests | Global Handler for Exceptions </strong>
-<div align="center">
-  <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118" width="400px" alt="Descrição da Imagem 1"/>
-  <img src="https://github.com/user-attachments/assets/98f31f02-9b0e-4ffb-be5b-f04fb0724edc" width="400px" alt="Descrição da Imagem 2"/>
+  <img src="https://github.com/pietroBragaAquinoJunior/pietroBragaAquinoJunior/assets/85259321/807f52b9-7a26-4d7c-829a-20809efd5118"  width="48%" alt="Descrição da Imagem 1"/>
+  <img src="https://github.com/user-attachments/assets/98f31f02-9b0e-4ffb-be5b-f04fb0724edc"  width="48%" alt="Descrição da Imagem 2"/>
 </div>
 </br>
 <a target="_blank" href="https://github.com/pietroBragaAquinoJunior/hexagonal">https://github.com/pietroBragaAquinoJunior/hexagonal</a> <br/>
