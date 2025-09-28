@@ -14,11 +14,20 @@
 
 ---
 
-### 1 - Spring Boot Rest API using Java
+### 1 - Spring Boot Rest API: Clean Architecture & High Performance
 
 🔗 [Link for Source Code](https://github.com/pietroBragaAquinoJunior/hexagonal)
 
-🛠️ JPA | H2 Memory Database | Ports and Adapters Architecture | Flyway for Migrations | Junit & Mockito for Tests | Global Handler Exceptions | Spring Validator
+⚙️ Technologies & Practices:
+- Frameworks: Spring Boot (Java), JPA, H2 Memory Database.
+- Architecture: Ports and Adapters (Hexagonal) Architecture, Clean Code Principles.
+- DevOps/Data: Flyway for Database Migrations.
+- Quality: Junit & Mockito for Unit/Integration Tests.
+- Robustness: Global Exception Handlers, Spring Validation.
 
-❓ Why this project is important? This project provides a robust template for creating **high-performance APIs** with **Clean Architecture**.It showcases how to **fully isolate business logic** and optimize data retrieval using advanced JPA JOIN FETCH techniques, effectively **solving the notorious N+1 query problem** for maximum application scalability.
+⭐ Why This Project Matters
+
+This project serves as the **definitive template** for building a production-ready API focused on **scalability and maintainability**.
+It demonstrates a deep understanding of **Clean Architecture**, ensuring the **business logic remains fully isolated and testable**.
+Crucially, it showcases advanced JPA techniques, leveraging JOIN FETCH and optimized JPQL to **eliminate the notorious N+1 query problem**, guaranteeing high performance under load.
 
