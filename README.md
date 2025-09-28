@@ -6,4 +6,10 @@
 
 🚀 My goal is to continue deepening my knowledge of Java ☕, JavaScript 🇯‌🇸, and English 🇺🇸.
 
-📚 I put everything on github but I will only separate the projects that I believe are most relevant.
+📚 I put everything on github but I will only separate the projects that I believe are most relevant 🏅.
+
+# Projects
+
+---
+
+aaa
