@@ -1,31 +1,6 @@
-# Projects
+👋🏻 Hello, my name is Piêtro and I am a web developer.
 
-## 🌿 Spring Boot Rest API (Java) ☕
+🎓 I have a degree in Computer Engineering from the State University of Maranhão.
 
-### 🔗 See the complete [Source Code here](https://github.com/pietroBragaAquinoJunior/hexagonal)
+🏆 I specialize in full stack development using VueJS 3 and Spring Boot.
 
-#### 🛠️ Technologies
-
-- [x] **JPA**
-- [x] **H2**
-- [x] **Hexagonal Architecture**
-- [x] **Flyway for Migrations**
-- [x] **Junit & Mockito for Tests**
-- [x] **Global Handler for Exceptions**
-- [x] **Spring Validator**
-
----
-
-#### 👨‍💻 Author's Comments:
-
-```java
-💬
-System.out.println(" This project is one of the bests to show my knowledge and skills in building" +
-                   " robust backend applications with clean architecture! ")
-```
-
-```java
-💬
-System.out.println(" This project discusses the **N+1 problem** and demonstrates how to avoid it" +
-                   " by correctly utilizing **Join Fetch** for data retrieval. ")
-```
