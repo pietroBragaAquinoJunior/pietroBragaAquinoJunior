@@ -14,7 +14,7 @@
 
 ---
 
-### 1 - Spring Boot Rest API: Clean Architecture & High Performance
+### 1 - Spring Boot Rest API: Clean Architecture & High Performance ⭐⭐⭐⭐⭐
 
 🔗 [Link for Source Code](https://github.com/pietroBragaAquinoJunior/hexagonal)
 
