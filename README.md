@@ -18,14 +18,14 @@
 
 🔗 [Link for Source Code](https://github.com/pietroBragaAquinoJunior/hexagonal)
 
-⚙️ Technologies & Practices:
+⚙️ **Technologies & Practices**:
 - Frameworks: Spring Boot (Java), JPA, H2 Memory Database.
 - Architecture: Ports and Adapters (Hexagonal) Architecture, Clean Code Principles.
 - DevOps/Data: Flyway for Database Migrations.
 - Quality: Junit & Mockito for Unit/Integration Tests.
 - Robustness: Global Exception Handlers, Spring Validation.
 
-⭐ Why This Project Matters
+✨ **Why This Project Matters**
 
 This project serves as the **definitive template** for building a production-ready API focused on **scalability and maintainability**.
 It demonstrates a deep understanding of **Clean Architecture**, ensuring the **business logic remains fully isolated and testable**.
