@@ -2,32 +2,24 @@
 
 ## Full-Stack Developer | Spring Boot & Vue.js 3
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pietrobragaaquinojunior&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pietrobragaaquinojunior)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pietrobragaaquinojunior)](https://github.com/pietrobragaaquinojunior)
-
----
-
-## 🚀 Professional Portfolio
+<br><br> <!-- Espaço extra para destacar o botão -->
 
 <p align="center">
   <a href="https://pietrobragaaquinojunior.github.io/my-personal-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-blue?style=for-the-badge&logo=firefox" alt="Portfolio Button"/>
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-blue?style=for-the-badge&logo=firefox&logoColor=white&labelColor=111111" alt="Portfolio Button"/>
   </a>
 </p>
 
----
-
-## 📊 GitHub Statistics
+<br><br> <!-- Espaço extra para destacar o botão -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pietrobragaaquinojunior&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/pietrobragaaquinojunior">
+    <img src="https://github-profile-trophy.vercel.app/?username=pietrobragaaquinojunior&margin-w=15&theme=github" alt="GitHub Trophies"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrobragaaquinojunior&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pietrobragaaquinojunior&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pietrobragaaquinojunior&show_icons=true&hide_title=true&count_private=true&theme=github" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrobragaaquinojunior&layout=compact&hide_title=true&theme=github" alt="Top Languages" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pietrobragaaquinojunior&hide_title=true&theme=github" alt="GitHub Streak" />
 </p>
