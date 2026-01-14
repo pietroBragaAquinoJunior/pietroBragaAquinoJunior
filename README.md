@@ -1,34 +1,36 @@
-# 👋 Hi, I'm Piêtro Braga
+# Piêtro Braga 👋
 
-## Full-Stack Developer | Spring Boot & Vue.js 3
+Full-stack Developer focused on **Vue.js 3** and **Spring Boot**.
 
+I build clean, scalable and maintainable web applications, with strong attention to architecture, performance and accessibility.
 
-<br>
+---
 
-<div align="center">
+## 🛠 Tech Stack
+- Java | Spring Boot | Spring Security
+- JPA | MyBatis | Flyway
+- Vue.js 3 | HTML | CSS | JavaScript
+- Git | Linux
 
-<p align="center">
-  <a href="https://pietrobragaaquinojunior.github.io/my-personal-portfolio/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6db29b65-1450-488a-bbc6-0aed25edcb14" alt="Portfolio Button" width="400" height="280"/>
-  </a>
-</p>
+---
 
+## 💼 Experience
+**Systems Development Supervisor**  
+Court of Accounts of the State of Maranhão (2022 — Present)
 
+- Backend APIs with Spring Boot
+- Frontend applications with Vue.js 3
+- Clean Architecture (Ports & Adapters)
+- Mentorship and technical leadership
 
-<br><br>
+---
 
-[![GitHub Trophy]](https://github.com/pietrobragaaquinojunior)
+## 🚀 Featured Projects
+- **Spring Boot Clean Architecture API**
+- **Spring Security API (JWT + RSA)**
+- **Personal Portfolio (Vue.js 3)**
 
-<br><br>
+---
 
-<!-- GitHub stats in one line -->
-<img src="https://github-readme-stats.vercel.app/api?username=pietrobragaaquinojunior&show_icons=true&hide_title=true&count_private=true&theme=github" alt="GitHub Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrobragaaquinojunior&layout=compact&hide_title=true&theme=github" alt="Top Languages" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pietrobragaaquinojunior&hide_title=true&theme=github" alt="GitHub Streak" />
-
-</div>
-
-<!---------------------------------------------------------------------------->
-
-[🔥 Portfolio Button 🔥]: https://img.shields.io/badge/🔥%20My_Portfolio-Fire-orange?style=for-the-badge&logo=firefox&logoColor=white
-[GitHub Trophy]: https://github-profile-trophy.vercel.app/?username=pietrobragaaquinojunior&margin-w=15&theme=github
+## 📫 Contact
+- LinkedIn: *(add link)*
