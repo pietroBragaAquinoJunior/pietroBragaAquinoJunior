@@ -2,7 +2,7 @@
 
 Software Developer focused on **Vue.js 3** and **Spring Boot**.
 
-I build clean and maintainable web applications, with strong focus on architecture, performance and accessibility.
+I build secure, maintainable web applications with a focus on clean, testable code and robust system architecture.
 
 ---
 
