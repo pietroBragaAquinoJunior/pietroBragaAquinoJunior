@@ -8,9 +8,9 @@ I build secure and maintainable web applications, focusing on clean, testable co
 
 ## 🛠️ Tech Stack
 
-- Backend & Security: Java 17+ | Spring Boot 3 | Spring Security (RBAC/JWT) | Spring Data JPA | MyBatis
+- Backend & Security: Java 17+ | Spring Boot 3 | Spring Security (RBAC/JWT) | Spring Data JPA
 - Testing & QA: TDD | Integration Testing (RestTemplate & Testcontainers) | JUnit 5 | AssertJ | Mockito
-- Database & Migration: PostgreSQL | MySQL | Flyway | Redis
+- Database & Migration: PostgreSQL | MySQL | Flyway
 - Frontend: Vue.js 3 (Composition API) | JavaScript (ES6+) | HTML5 | CSS3
 - Methodologies & Tools: Scrum | Agile | Git Flow | Docker | Linux | CI/CD
 
