@@ -1,5 +1,14 @@
 # Piêtro Braga 👋
 
+**Systems Development Supervisor | Full-stack Developer**
+
+> [!TIP]
+> **[Check out my Online Portfolio 🚀](https://pietrobragaaquinojunior.github.io/portfolio/)**
+
+<a href="https://pietrobragaaquinojunior.github.io/portfolio/">
+  <img src="https://github.com/user-attachments/assets/d82ba8ea-84fd-452f-91ce-63eecfb41c01" alt="Portfolio Preview" width="600">
+</a>
+
 Software Developer focused on **Vue.js 3** and **Spring Boot**.
 
 I build secure and maintainable web applications, focusing on clean, testable code and robust architecture. My approach prioritizes security (RBAC/JWT) and reliability through TDD and Integration Testing.
