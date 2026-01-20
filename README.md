@@ -2,26 +2,27 @@
 
 Software Developer focused on **Vue.js 3** and **Spring Boot**.
 
-I build secure, maintainable web applications with a focus on clean, testable code and robust system architecture.
+I build secure and maintainable web applications, focusing on clean, testable code and robust architecture. My approach prioritizes security (RBAC/JWT) and reliability through TDD and Integration Testing.
 
 ---
 
-## 🛠 Tech Stack
-- Java | Spring Boot | Spring Security
-- JPA | MyBatis | Flyway
-- Vue.js 3 | HTML | CSS | JavaScript
-- Git | Linux
+## 🛠️ Tech Stack
+
+- Backend & Security: Java 17+ | Spring Boot 3 | Spring Security (RBAC/JWT) | Spring Data JPA | MyBatis
+- Testing & QA: TDD | Integration Testing (RestTemplate & Testcontainers) | JUnit 5 | AssertJ | Mockito
+- Database & Migration: PostgreSQL | MySQL | Flyway | Redis
+- Frontend: Vue.js 3 (Composition API) | JavaScript (ES6+) | HTML5 | CSS3
+- Methodologies & Tools: Scrum | Agile | Git Flow | Docker | Linux | CI/CD
 
 ---
 
 ## 💼 Experience
-**Systems Development Supervisor**  
-Court of Accounts of the State of Maranhão (2022 — Present)
+**Systems Development Supervisor Court of Accounts of the State of Maranhão (2022 — Present)**
 
-- Backend APIs with Spring Boot
-- Frontend applications with Vue.js 3
-- Clean Architecture (Ports & Adapters)
-- Team mentorship and technical guidance
+- Architecture: Leading the transition to Clean Architecture (Ports & Adapters) to ensure decoupled and maintainable systems.
+- Backend & Security: Designing secure APIs with Spring Boot & Security, focusing on data integrity and RBAC.
+- Frontend: Developing modern, reactive interfaces using Vue.js 3.
+- Leadership: Guiding the dev team through technical mentorship.
 
 ---
 
