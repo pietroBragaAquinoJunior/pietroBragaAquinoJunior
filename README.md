@@ -26,5 +26,14 @@ I build secure and maintainable web applications, focusing on clean, testable co
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/pietrobragaprofissional/
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrobragaprofissional/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5598981470013)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pietrobragaaquino@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+&nbsp; ![Piêtro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietrobragaaquinojunior&show_icons=true&theme=radical)  
+&nbsp; ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pietrobragaaquinojunior&layout=compact&theme=radical)
